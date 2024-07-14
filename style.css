@@ -1,0 +1,44 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+
+.text-primary{
+    color: #257dfd;
+}
+.nav-link{
+    font-weight: 500;
+}
+
+.navbar-brand{
+    color: #257dfd;
+}
+
+.btn-primary{
+    background-color: #0a58ca;
+    border: none;
+}
+
+.nav-link:hover{
+    color: #0a58ca;
+}
+
+p{
+    font-size: 18px;
+}
+
+.btn-primary:hover{
+    background-color: #257dfd;
+}
+
+.bg-blue{
+    color: #257dfd;
+}
+
+.bg-blue-2{
+    color: white;
+}
+
